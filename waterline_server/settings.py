@@ -129,5 +129,5 @@ STATIC_URL = '/static/'
 
 CORS_ORIGIN_WHITELIST = (
   'http://localhost:8100',
-  'http://127.0.0.1:8100'
+  'http://127.0.0.1:8100',
 )
